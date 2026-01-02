@@ -1,0 +1,15 @@
+
+
+<suite name="Automation Test Suite">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="Regression Tests">
+        <classes>
+            <class name="tests.SubmitOrderTest"/>
+        </classes>
+    </test>
+
+</suite>

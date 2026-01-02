@@ -1,0 +1,22 @@
+# Maven
+/target/
+
+# Eclipse
+/.settings/
+/.classpath
+/.project
+
+# Workspace / System junk
+/.cache/
+/.config/
+/.eclipse/
+/.oracle_jre_usage/
+/.m2/
+/.gradle/
+/.jenkins/
+
+# TestNG
+/test-output/
+
+# Logs
+*.log
